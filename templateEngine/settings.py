@@ -113,6 +113,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # https://docs.djangoproject.com/en/3.2/topics/i18n/
 
 LANGUAGE_CODE = 'en-us'
+CONTACT_NUMBER = '0-1920342334'
 
 TIME_ZONE = 'UTC'
 
